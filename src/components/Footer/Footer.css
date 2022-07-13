@@ -1,0 +1,24 @@
+.footer{
+    bottom: 0;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #292928;
+    padding-top: 20px;
+    color: white;
+}
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+    max-width: 1800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.footerLogoContainer{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.footerLogo{
+    
+}
